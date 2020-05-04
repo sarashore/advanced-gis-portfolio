@@ -70,3 +70,13 @@ Ultimately, I ended up using Keplar again to represent this information. It was 
 <img width="958" alt="Image 8" src="https://user-images.githubusercontent.com/62624539/80930501-f9d4ec80-8d81-11ea-92df-6f75d1e9b1d1.PNG">
 
 Although I recognize that this data collection is invasive and makes us substantially more vulnerable, I see the merit of collecting this data for policy creation - when given to the appropriate folks and regulated in an appropriate way, of course. Location data has the potential to be used to develop more socially equitable policies (i.e., understanding how far people have to travel for food & work). Personally, I'm alright with my data being collected; however, I know this means that it's inevitably going to be used for advertisement and other manipulation. In terms of regulating this data, I think it's extremely important that people are informed of the accompanying risk. Crafting more straightforward software agreements or providing monthly updates to the user of their data being collected may be a way to visualize this risk and ensure people are aware of the extent of their data being collected and how it may be used. 
+
+## Hazardous Emergency Decisions
+
+##3 Redirected Traffic/Drive Times 
+
+Below is a map of the redirected traffic patterns in lieu of this spill of chlorine gas. Three routes (1,3 and 4) are mapped in full and two routes (2 and 5) have stops plotted but are not routed. In this map, I’ve mapped the drive times for fire stations at 2 and 4 minutes. At first glance, it seems as though few trucks or emergency response teams would make it to the scene of the incident within 4 minutes. It is likely that Fire Station #18 is best-positioned to handle an incident at this location.
+
+### Hospital Drive Times
+Below is a map of the redirected traffic patterns in lieu of this spill of chlorine gas. Three routes (1,3 and 4) are mapped in full and two routes (2 and 5) have stops plotted but are not routed. In this map, I’ve mapped the drive times for hospitals at 5, 10, and 15 minutes. Since the hospitals are not close to the incident, I wanted to be sure to use intervals that would provide an appropriate understand of how long it might take an effected person at the site of the incident to get to any hospital. At first glance, it seems as though ambulance or EMT teams would make it from the scene of the incident to a hospital in less than 15 minutes. For this scenario, I’ve chosen only hospitals within 7 miles to examine. 
+
