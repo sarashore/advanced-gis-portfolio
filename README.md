@@ -38,7 +38,7 @@ To check whether the implementation of my style was acceptable, I looked at two 
 
 ### Build an on-line map in MapBox
 
-Here (Links to an external site.) is my published map showing the number of opioid overdoses by state. [Note: I did not consider the rate of overdoses.]
+[Here] (https://api.mapbox.com/styles/v1/sarashore/ck8osttha3xh91jo0t24uzh28.html?fresh=true&title=view&access_token=pk.eyJ1Ijoic2FyYXNob3JlIiwiYSI6ImNrODdybmFocjAwNWszbW8wN3Rkd3Z0ZmEifQ.rZZabkC6DJxP9Al3uddAcQ#3.04/37.67/-96.29.) is my published map showing the number of opioid overdoses by state. [Note: I did not consider the rate of overdoses.]
 
 Overall, I had a fine experience working with Mapbox. To echo Ian's point from class, I wish that we might have done the entirety of the work outside of ArcGIS; however, I still think this was a valuable experience. I have limited experience in webscraping, so I was appreciative that you provided an excel sheet with the relevant CDC data. I had no trouble joining the data in GIS. I was able to use my minimal knowledge of Python to create a new column in the County feature class to mimic the FIPS code of the Prescription Overdose table and make for easy joining. I was unable to convert the "Null" values to "1000" - I'd love some tips on this as my internet sleuthing was unproductive.
 
