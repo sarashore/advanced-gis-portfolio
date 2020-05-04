@@ -53,17 +53,20 @@ I really like using Keplar/Mapbox when the data is provided in a JSON or CSV alr
 
 Important to note, I did not symbolize all of 412's 3 years of data and only looked at data from 2019.
 
+<img width="955" alt="Image 5" src="https://user-images.githubusercontent.com/62624539/80930487-eb86d080-8d81-11ea-987a-a8e5d8800aee.PNG">
+
 
 ### Investigate Sample Dataset
 Although my phone has been tracking my location for years, Google has not. This was so disappointing, as I was really hoping to check out my quarantine activity (or lack thereof). I have since turned on my Google location tracking and will be interested to follow up with myself in a week or so. This meant that I had to utilize the provided sample data. I wasn't able to get it to work in Python; however, I've never used that tool before, so it's likely I made dumb errors. 
 
 Additionally, the kernal density feature in Pro was only putting out results for a tiny section of the map (see below). I experimented with changing the output cell size; however, it wasn't effective. 
 
-
-
+<img width="473" alt="Image 6" src="https://user-images.githubusercontent.com/62624539/80930491-f04b8480-8d81-11ea-9cc1-320ad679f104.PNG">
 
 Ultimately, I ended up using Keplar again to represent this information. It was very easy to pull out personal information from this dataset. I found this heatmap to be useful to understand general patterns (using the time-stamped lat/long). However, I used the cluster analysis tool to determine the exact street corner at which the sample person lived. 
 
+<img width="949" alt="Image 7" src="https://user-images.githubusercontent.com/62624539/80930498-f6416580-8d81-11ea-9410-9f481c73ff53.PNG">
 
+<img width="958" alt="Image 8" src="https://user-images.githubusercontent.com/62624539/80930501-f9d4ec80-8d81-11ea-92df-6f75d1e9b1d1.PNG">
 
 Although I recognize that this data collection is invasive and makes us substantially more vulnerable, I see the merit of collecting this data for policy creation - when given to the appropriate folks and regulated in an appropriate way, of course. Location data has the potential to be used to develop more socially equitable policies (i.e., understanding how far people have to travel for food & work). Personally, I'm alright with my data being collected; however, I know this means that it's inevitably going to be used for advertisement and other manipulation. In terms of regulating this data, I think it's extremely important that people are informed of the accompanying risk. Crafting more straightforward software agreements or providing monthly updates to the user of their data being collected may be a way to visualize this risk and ensure people are aware of the extent of their data being collected and how it may be used. 
