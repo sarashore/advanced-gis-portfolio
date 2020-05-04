@@ -92,3 +92,30 @@ Below is a map of the redirected traffic patterns in lieu of this spill of chlor
 
 
 <img width="554" alt="Image 13" src="https://user-images.githubusercontent.com/62624539/80930812-e296fe80-8d83-11ea-8349-3a2defc1e4b3.PNG">
+
+## Using ArcGIS Insights to Investigate the DEA's Pain Pill Database
+
+Here are my outputs from this assignment:
+<img width="456" alt="Image 14" src="https://user-images.githubusercontent.com/62624539/80930907-8c768b00-8d84-11ea-9218-b857e3630fce.PNG">
+
+<img width="743" alt="Image 15" src="https://user-images.githubusercontent.com/62624539/80930917-9c8e6a80-8d84-11ea-942d-80658a53f21f.PNG">
+
+### 1.  What did you learn from working with these data and performing this analysis?
+
+I was pleasantly surprised at both the DEA and the Washington Post for collecting and reporting this data. The data was easy to download, interpret and analyze - which feels like a first for government data. Growing up in Ohio, and knowing many people who overdosed on pain pills, I was surprised to find that many of the Ohio counties fell relatively low on the index. 
+
+Given that the pharmaceutical industry is an oligopoly, I was not surprised that just a few distributors are responsible for a vast majority of the pain pills supplied to the buyer pharmacies. Since the biggest suppliers were often the closest in geographical location, I was surprised to find a few distributors being located as far away as FL and MA. It is likely they serve a specialized function to serve as backfill or offer a unique product.
+
+With further analysis, I would like to know if these trends hold for the western region of the country. Or if these midwest and east coast distributors are distributing cross country. If so, perhaps that may be a factor in the lower numbers of overdoses and pills per person on the west coast and great plains.
+
+### 2.  Under what circumstances (or for what types of users) would you recommend using ArcGIS Insights?
+
+ArcGIS Insights was relatively intuitive! I certainly agree with your comment that it may be Esri's response to Tableau, as it has a very similar feel. At first use, it seems as though this might be a good tool for high-level network analysis. The ability to illustrate interactions is valuable and speedy. Ultimately, I think I would recommend this to organizations - perhaps nonprofits - that are looking to better understand their target population quickly and with few trained data viz people on staff and in a short timeframe. 
+
+### 3.  Can you imagine a scenario where tools like ArcGIS Insights might be preferable or a compliment to ArcGIS Pro?
+
+Again, I think this tool is likely most helpful when it comes to high-level network analysis, when the cost of Pro is too high, or when the timeframe is short.
+
+As mentioned above, nonprofits might find this tool useful due to limited budgets. For example, my previous employer might have used this data to track where high school graduates were matriculating and/or how these endeavours were being funded to better track our in-person outreach efforts. Something like this could be used for 412 Rescue as well.
+
+Additionally, in this current health crisis, this tool might be used by state and local governments to track essential supplies being delivered and utilized by hospitals. 
