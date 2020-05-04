@@ -85,6 +85,7 @@ Below is a map of the redirected traffic patterns in lieu of this spill of chlor
 ![Image 10](https://user-images.githubusercontent.com/62624539/80930660-fb52e480-8d82-11ea-82d0-574a10007163.jpg)
 
 ## Hurricane Damage Decisions
+
 <img width="555" alt="Image 11" src="https://user-images.githubusercontent.com/62624539/80930806-ddd24a80-8d83-11ea-8590-18424e33e49d.PNG">
 
 
@@ -96,6 +97,7 @@ Below is a map of the redirected traffic patterns in lieu of this spill of chlor
 ## Using ArcGIS Insights to Investigate the DEA's Pain Pill Database
 
 Here are my outputs from this assignment:
+
 <img width="456" alt="Image 14" src="https://user-images.githubusercontent.com/62624539/80930907-8c768b00-8d84-11ea-9218-b857e3630fce.PNG">
 
 <img width="743" alt="Image 15" src="https://user-images.githubusercontent.com/62624539/80930917-9c8e6a80-8d84-11ea-942d-80658a53f21f.PNG">
