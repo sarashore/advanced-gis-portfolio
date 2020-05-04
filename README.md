@@ -20,5 +20,18 @@ Using this color scheme, I created a map style in Google Maps. The land uses the
 
 I like this more neutral color scheme but I think it could use a few more tweaks so as to highlight any relevant points of interest. 
 
+## Create a Custom ArcGIS style
+
+### Identify your source for inspiration and styles used 
+
+Recently, I took an Indian cooking class at Chatam’s Eden Hall campus (I would definitely recommend)! I remember thinking how beautiful all the spices looked – particularly, the turmeric. Though my hands were too busy to take any photos, I found this on Adobe Stock that reminded me of that feeling. I tried to make all landmasses this strong turmeric color and the ocean red like chili powder as the main features in my style.
+
+
+In the cooking class, the teacher mentioned that she usually carries a map with her to highlight the areas of India that the recipes come from and she'd like for this to be a feature on her new website. Unbeknownst to me, many of the recipes that American’s consider to be “Indian” are specific to the Northern regions. One (potential) use for a map like this may be to illustrate which regions, or specific households, that these recipes come from. 
+
+
+To check whether the implementation of my style was acceptable, I looked at two map scales: 1:192,176,068 (A Global Scale) and 1:40,302,243 (India). I used the color pencil style on ArcGIS as my base style, and I think in a large-scale view of this map, the colored pencil style could become distracting. Since one theory of applicability would be for Jalsa to use this on her website, I wanted to be sure that she could toggle across the country or world readily and with few changes to the map style or key features. Depending on her views on Indian culinary politics, one aspect to further consider in QA may be intracountry boundaries (note: I have none at this time). Additionally, certain areas of the ocean have a blue background and I can't get them to change without changing the style of the ocean scribbles. 
+
+
 
 
