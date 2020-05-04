@@ -36,7 +36,7 @@ To check whether the implementation of my style was acceptable, I looked at two 
 
 ![Image 4](https://user-images.githubusercontent.com/62624539/80929532-c17de000-8d7a-11ea-9f40-421c940fecdc.jpg)
 
-### Build an on-line map in MapBox
+## Build an on-line map in MapBox
 
 [Here](https://api.mapbox.com/styles/v1/sarashore/ck8osttha3xh91jo0t24uzh28.html?fresh=true&title=view&access_token=pk.eyJ1Ijoic2FyYXNob3JlIiwiYSI6ImNrODdybmFocjAwNWszbW8wN3Rkd3Z0ZmEifQ.rZZabkC6DJxP9Al3uddAcQ#3.04/37.67/-96.29.) is my published map showing the number of opioid overdoses by state. [Note: I did not consider the rate of overdoses.]
 
@@ -45,3 +45,25 @@ Overall, I had a fine experience working with Mapbox. To echo Ian's point from c
 I transported the data to Mapbox via compressed shapefiles and had no trouble doing so. Once in Mapbox, I struggled a bit; however, I'm certain most of this is simply due to my lack of familiarity with the program. In Mapbox, I struggle to make small edits, like turning on and off labels, even after completing their tutorials; however, again, I may grow more comfortable with increased use. Due to the fact that this fine tuning of the presentation of the map took me so long, I wasn't able to get to the second, county-level data.
 
 I think, at this time, I much prefer ArcGIS Pro; however, I absolutely see the merit in building our familiarity with free tools. After class today, I'm interested to learn more about QGIS, as this is what my future employer uses for most of their products.
+
+## Mapping Geographic Footprints
+
+### 412 Food Rescue Data
+I really like using Keplar/Mapbox when the data is provided in a JSON or CSV already. This tool is incredibly simple and I appreciate the variety of spatial analysis options you're with which you're offered to display your data. In my illustration of the 412 food rescue data, I chose to connect the sources and destinations with arcs and to tilt the map slightly in 3D space so as to show the arcs clearer. Additionally, I colored the arcs in a way that might make it simpler to tell where food was coming and going.
+
+Important to note, I did not symbolize all of 412's 3 years of data and only looked at data from 2019.
+
+
+### Investigate Sample Dataset
+Although my phone has been tracking my location for years, Google has not. This was so disappointing, as I was really hoping to check out my quarantine activity (or lack thereof). I have since turned on my Google location tracking and will be interested to follow up with myself in a week or so. This meant that I had to utilize the provided sample data. I wasn't able to get it to work in Python; however, I've never used that tool before, so it's likely I made dumb errors. 
+
+Additionally, the kernal density feature in Pro was only putting out results for a tiny section of the map (see below). I experimented with changing the output cell size; however, it wasn't effective. 
+
+
+
+
+Ultimately, I ended up using Keplar again to represent this information. It was very easy to pull out personal information from this dataset. I found this heatmap to be useful to understand general patterns (using the time-stamped lat/long). However, I used the cluster analysis tool to determine the exact street corner at which the sample person lived. 
+
+
+
+Although I recognize that this data collection is invasive and makes us substantially more vulnerable, I see the merit of collecting this data for policy creation - when given to the appropriate folks and regulated in an appropriate way, of course. Location data has the potential to be used to develop more socially equitable policies (i.e., understanding how far people have to travel for food & work). Personally, I'm alright with my data being collected; however, I know this means that it's inevitably going to be used for advertisement and other manipulation. In terms of regulating this data, I think it's extremely important that people are informed of the accompanying risk. Crafting more straightforward software agreements or providing monthly updates to the user of their data being collected may be a way to visualize this risk and ensure people are aware of the extent of their data being collected and how it may be used. 
