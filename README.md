@@ -36,4 +36,12 @@ To check whether the implementation of my style was acceptable, I looked at two 
 
 ![Image 4](https://user-images.githubusercontent.com/62624539/80929532-c17de000-8d7a-11ea-9f40-421c940fecdc.jpg)
 
+### Build an on-line map in MapBox
 
+Here (Links to an external site.) is my published map showing the number of opioid overdoses by state. [Note: I did not consider the rate of overdoses.]
+
+Overall, I had a fine experience working with Mapbox. To echo Ian's point from class, I wish that we might have done the entirety of the work outside of ArcGIS; however, I still think this was a valuable experience. I have limited experience in webscraping, so I was appreciative that you provided an excel sheet with the relevant CDC data. I had no trouble joining the data in GIS. I was able to use my minimal knowledge of Python to create a new column in the County feature class to mimic the FIPS code of the Prescription Overdose table and make for easy joining. I was unable to convert the "Null" values to "1000" - I'd love some tips on this as my internet sleuthing was unproductive.
+
+I transported the data to Mapbox via compressed shapefiles and had no trouble doing so. Once in Mapbox, I struggled a bit; however, I'm certain most of this is simply due to my lack of familiarity with the program. In Mapbox, I struggle to make small edits, like turning on and off labels, even after completing their tutorials; however, again, I may grow more comfortable with increased use. Due to the fact that this fine tuning of the presentation of the map took me so long, I wasn't able to get to the second, county-level data.
+
+I think, at this time, I much prefer ArcGIS Pro; however, I absolutely see the merit in building our familiarity with free tools. After class today, I'm interested to learn more about QGIS, as this is what my future employer uses for most of their products.
