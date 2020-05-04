@@ -1,4 +1,4 @@
-# advanced-gis-portfolio
+# Gis Portfolio
 This my portfolio for 90753 - Advanced GIS!
 
 # About Me
@@ -118,4 +118,16 @@ Again, I think this tool is likely most helpful when it comes to high-level netw
 
 As mentioned above, nonprofits might find this tool useful due to limited budgets. For example, my previous employer might have used this data to track where high school graduates were matriculating and/or how these endeavours were being funded to better track our in-person outreach efforts. Something like this could be used for 412 Rescue as well.
 
-Additionally, in this current health crisis, this tool might be used by state and local governments to track essential supplies being delivered and utilized by hospitals. 
+Additionally, in this current health crisis, this tool might be used by state and local governments to track essential supplies being delivered and utilized by hospitals.
+
+## Clustered Risk Assessment of Pittsburgh Public Schools to Avoid Growing Achievement Gaps
+
+[Geographic Information Systems Final Project](https://arcg.is/1bm0rL)
+
+## PHL Department of Commerce: Microgrant Analysis
+
+[Dashboard of PHL Microgrants 2020](https://arcg.is/0HrbCC)
+
+[Storymap](https://storymaps.arcgis.com/stories/73b4ef040ee941e28c2e6f43a27c267d)
+
+[Clustered Risk Analysis](https://arcg.is/1Gr1yv)
