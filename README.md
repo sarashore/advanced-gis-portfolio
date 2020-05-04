@@ -83,3 +83,12 @@ Below is a map of the redirected traffic patterns in lieu of this spill of chlor
 Below is a map of the redirected traffic patterns in lieu of this spill of chlorine gas. Three routes (1,3 and 4) are mapped in full and two routes (2 and 5) have stops plotted but are not routed. In this map, I’ve mapped the drive times for hospitals at 5, 10, and 15 minutes. Since the hospitals are not close to the incident, I wanted to be sure to use intervals that would provide an appropriate understand of how long it might take an effected person at the site of the incident to get to any hospital. At first glance, it seems as though ambulance or EMT teams would make it from the scene of the incident to a hospital in less than 15 minutes. For this scenario, I’ve chosen only hospitals within 7 miles to examine. 
 
 ![Image 10](https://user-images.githubusercontent.com/62624539/80930660-fb52e480-8d82-11ea-82d0-574a10007163.jpg)
+
+## Hurricane Damage Decisions
+<img width="555" alt="Image 11" src="https://user-images.githubusercontent.com/62624539/80930806-ddd24a80-8d83-11ea-8590-18424e33e49d.PNG">
+
+
+<img width="550" alt="Image 12" src="https://user-images.githubusercontent.com/62624539/80930809-df037780-8d83-11ea-8129-91a5abc77c14.PNG">
+
+
+<img width="554" alt="Image 13" src="https://user-images.githubusercontent.com/62624539/80930812-e296fe80-8d83-11ea-8349-3a2defc1e4b3.PNG">
