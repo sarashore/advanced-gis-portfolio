@@ -77,6 +77,9 @@ Although I recognize that this data collection is invasive and makes us substant
 
 Below is a map of the redirected traffic patterns in lieu of this spill of chlorine gas. Three routes (1,3 and 4) are mapped in full and two routes (2 and 5) have stops plotted but are not routed. In this map, I’ve mapped the drive times for fire stations at 2 and 4 minutes. At first glance, it seems as though few trucks or emergency response teams would make it to the scene of the incident within 4 minutes. It is likely that Fire Station #18 is best-positioned to handle an incident at this location.
 
+![Image 9](https://user-images.githubusercontent.com/62624539/80930659-f9892100-8d82-11ea-843a-d150d4c84b8e.jpg)
+
 ### Hospital Drive Times
 Below is a map of the redirected traffic patterns in lieu of this spill of chlorine gas. Three routes (1,3 and 4) are mapped in full and two routes (2 and 5) have stops plotted but are not routed. In this map, I’ve mapped the drive times for hospitals at 5, 10, and 15 minutes. Since the hospitals are not close to the incident, I wanted to be sure to use intervals that would provide an appropriate understand of how long it might take an effected person at the site of the incident to get to any hospital. At first glance, it seems as though ambulance or EMT teams would make it from the scene of the incident to a hospital in less than 15 minutes. For this scenario, I’ve chosen only hospitals within 7 miles to examine. 
 
+![Image 10](https://user-images.githubusercontent.com/62624539/80930660-fb52e480-8d82-11ea-82d0-574a10007163.jpg)
