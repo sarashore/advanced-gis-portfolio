@@ -8,3 +8,4 @@ I'm a second-year MSPPM interested in education and housing policy. Before Heinz
 GIS has been my favorite skill that I've learned at Heinz so far. In the last few months, I've used GIS to map housing needs for counties accross the country to submit to HUD; industrial hemp processing site locations in Fayette County, PA; and to create a cluster analysis for risk assessment of all 6-12 schools in the Pittsburgh School District. One thing I still hope to learn in this class is how to make client dashboards. Additionally, I'd like to become more comfortable with GitHub. I only learned about the resource on the first day of this class and now I'm seeing and hearing about it EVERYWHERE!
 
 # Portfolio
+<img width="1129" alt="Image 1" src="https://user-images.githubusercontent.com/62624539/80929316-e1ac9f80-8d78-11ea-9757-96f8aa9706e8.png">
