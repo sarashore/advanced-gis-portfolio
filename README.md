@@ -32,6 +32,8 @@ In the cooking class, the teacher mentioned that she usually carries a map with 
 
 To check whether the implementation of my style was acceptable, I looked at two map scales: 1:192,176,068 (A Global Scale) and 1:40,302,243 (India). I used the color pencil style on ArcGIS as my base style, and I think in a large-scale view of this map, the colored pencil style could become distracting. Since one theory of applicability would be for Jalsa to use this on her website, I wanted to be sure that she could toggle across the country or world readily and with few changes to the map style or key features. Depending on her views on Indian culinary politics, one aspect to further consider in QA may be intracountry boundaries (note: I have none at this time). Additionally, certain areas of the ocean have a blue background and I can't get them to change without changing the style of the ocean scribbles. 
 
+![Image 4](https://user-images.githubusercontent.com/62624539/80929517-9eebc700-8d7a-11ea-9791-0bb4511e7bf3.jpg)
 
+![Image 4](https://user-images.githubusercontent.com/62624539/80929532-c17de000-8d7a-11ea-9f40-421c940fecdc.jpg)
 
 
