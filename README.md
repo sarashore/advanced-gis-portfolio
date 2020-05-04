@@ -16,6 +16,9 @@ My inspiration for this assignment comes from a photo I took in my apartment las
 
 Using this color scheme, I created a map style in Google Maps. The land uses the Dim Gray, the labels are Beige, roads are Sienna, and parks and water are Dark Sea Green. I didn't use the Dark Olive Green; however, I likely could have used it for some type of major feature or as a label for major urban areas. I probably shouldn't have used the green for both parks and water, as neither stands out and it's challenging to differentiate between the two of them. In the future, I would likely include some duller blue to serve as the water feature color.  I played with the hue just a bit in this version to create a slight differentiation between water and parks.  Additionally, with more colors to choose from, I would have differentiated roads from one another.
 
+<img width="1048" alt="Image 2" src="https://user-images.githubusercontent.com/62624539/80929373-744d3e80-8d79-11ea-859e-01579f74d0ec.png">
+
 I like this more neutral color scheme but I think it could use a few more tweaks so as to highlight any relevant points of interest. 
+
 
 
